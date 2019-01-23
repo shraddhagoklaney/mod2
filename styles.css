@@ -16,8 +16,6 @@ p {
   height: auto;
   margin-left: 10px;
   margin-right: 10px;
-  font-family: Helvetica;
-  color: white;
   border: 1px solid black;
   
 
@@ -29,7 +27,7 @@ p {
   right: 0px;
   border: 1px solid black;
   padding: 10px;
-  background-color: #ff6055;
+  background-color:#F08080;
   font-size: 125%;
 
 }
@@ -40,7 +38,7 @@ p {
   right: 0px;
   border: 1px solid black;
   padding: 10px;
-  background-color: #b6af55;
+  background-color: #F0E68C;
   font-size: 125%;
 }
 
@@ -51,8 +49,9 @@ p {
   right: 0px;
   border: 1px solid black;
   padding: 10px;
-  background-color: #ff9e55;
+  background-color: #FF0000;
   font-size: 125%;
+  color: #FFFFFF
 }
 /* Simple Responsive Framework. */
 .row {
