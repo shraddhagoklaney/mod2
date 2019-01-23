@@ -6,14 +6,7 @@
 
 h1 {
 	
-	color: black;
 	text-align: center;
-}
-
-body {
-	
-	background-color: powder blue;
-
 }
 
 p {
@@ -35,7 +28,7 @@ section {
 	background-color:pink;
 	width: 100%;
 	height: 200px;
-	color: black;
+	color: gray;
 	position: relative;
 	overflow: auto;
 }
@@ -50,7 +43,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: gray;
+	background-color: pink;
 }
 
 #beef {
@@ -63,7 +56,8 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: gray;
+	background-color: red;
+	color: white;
 }
 
 #sushi {
@@ -75,7 +69,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: gray;
+	background-color: cream;
 	padding: 5px;
 }
 
